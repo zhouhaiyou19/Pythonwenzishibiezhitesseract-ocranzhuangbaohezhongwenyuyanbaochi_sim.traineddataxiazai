@@ -1,0 +1,1 @@
+# Pythonwenzishibiezhitesseract-ocranzhuangbaohezhongwenyuyanbaochi_sim.traineddataxiazai
